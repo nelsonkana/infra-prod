@@ -1,6 +1,6 @@
 # Local Terraform directories
 .terraform/
-.terraform.lock.hcl
+#.terraform.lock.hcl
 
 # Local Terraform variable files with secrets
 *.tfvars
