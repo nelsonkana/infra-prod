@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "my-tf-state-bucket" # change to your bucket
+    bucket = "tfstate-my-bq-terraform-demo-123" # change to your bucket
     prefix = "infra-prod/state"
   }
 }
